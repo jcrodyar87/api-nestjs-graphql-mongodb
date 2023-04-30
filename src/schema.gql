@@ -1,0 +1,40 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Language {
+  """Example field (placeholder)"""
+  id: Int!
+  name: String!
+  code: String!
+  alpha3: String!
+  status: Float!
+}
+
+type Query {
+  languages: [Language!]!
+  language(id: Int!): Language!
+}
+
+type Mutation {
+  createLanguage(createLanguageInput: CreateLanguageInput!): Language!
+  updateLanguage(updateLanguageInput: UpdateLanguageInput!): Language!
+  removeLanguage(id: Int!): Language!
+}
+
+input CreateLanguageInput {
+  """Example field (placeholder)"""
+  id: Int!
+  name: String!
+  code: String!
+  alpha3: String!
+  status: Float!
+}
+
+input UpdateLanguageInput {
+  id: Int!
+  name: String!
+  code: String!
+  alpha3: String!
+  status: Float!
+}
