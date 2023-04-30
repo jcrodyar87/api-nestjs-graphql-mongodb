@@ -34,6 +34,24 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Usage
+
+<p align="center">
+  <img src="screens/languages.jpg" width="300" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="screens/language.jpg" width="300" alt="Language" />
+</p>
+
+<p align="center">
+  <img src="screens/create_language.jpg" width="300" alt="Create language" />
+</p>
+
+<p align="center">
+  <img src="screens/update_language.jpg" width="300" alt="Update language" />
+</p>
+
 ## License
 
 It has a [MIT licensed](LICENSE).
