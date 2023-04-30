@@ -1,6 +1,6 @@
 ## Description
 
-NestJS + GraphQL + MongoDB + Mongoose
+API using NestJS, GraphQL, MongoDB, and Mongoose
 
 ## Installation
 
@@ -36,20 +36,28 @@ $ npm run test:cov
 
 ## Usage
 
-<p align="center">
-  <img src="screens/languages.jpg" width="300" alt="Languages" />
-</p>
+Show languages
 
 <p align="center">
-  <img src="screens/language.jpg" width="300" alt="Language" />
+  <img src="screens/languages.jpg" width="400" alt="Languages" />
 </p>
 
-<p align="center">
-  <img src="screens/create_language.jpg" width="300" alt="Create language" />
-</p>
+Show language
 
 <p align="center">
-  <img src="screens/update_language.jpg" width="300" alt="Update language" />
+  <img src="screens/language.jpg" width="400" alt="Language" />
+</p>
+
+Create language
+
+<p align="center">
+  <img src="screens/create_language.jpg" width="400" alt="Create language" />
+</p>
+
+Update language
+
+<p align="center">
+  <img src="screens/update_language.jpg" width="400" alt="Update language" />
 </p>
 
 ## License
